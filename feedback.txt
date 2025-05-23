@@ -1,0 +1,8 @@
+K(30%): 100
+I(30%): 98
+C(10%): 95
+A(30%): 100
+98.9%
+Should have an explanation for each class in their top javadocs.
+Don't create extra constructors you don't need (Or comment them out for the final code)
+addCard could be reused in your constructor and reshuffle method to simplify code.
